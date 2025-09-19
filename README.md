@@ -40,3 +40,11 @@ Este projeto simula o consumo diário de insumos em um laboratório e permite ao
 - Pode registrar pedidos de reposição, informando a quantidade desejada.  
 - É possível consultar vários produtos em sequência.  
 - No final, o sistema mostra os consumos do dia e os produtos pedidos.
+
+## Autores
+
+Estevam Melo RM555124 
+Eduardo Lima RM554804 
+Henrique Lomaski RM555351 
+Guilherme Ulacco RM558418 
+Matheus Hostim RM556517
